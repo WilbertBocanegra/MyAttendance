@@ -18,8 +18,7 @@ wilbert bocanegra velazquez
     <platform name="android">
         <preference name="android-minSdkVersion" value="14" />
         <allow-intent href="market:*" />
-        <preference name="StatusBarBackgroundColor" value="#007aff" />
-        <preference name="StatusBarOverlaysWebView" value="true" />
+        <preference name="StatusBarBackgroundColor" value="#263238" />
 
 
     </platform>
