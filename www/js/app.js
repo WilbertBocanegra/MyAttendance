@@ -11,7 +11,6 @@ var app = new Framework7({
   id: 'com.myapp.mihorario',
   // Enable swipe panel
   statusbar: {
-    overlay:true,
     materialBackgroundColor: '#263238',
   },
   panel: {
